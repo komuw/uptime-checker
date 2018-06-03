@@ -1,0 +1,9 @@
+# Compiled Python modules
+*.pyo
+*.pyc
+
+# Ignore virtualenv
+.uptime-checker
+
+# vscode
+.vscode
